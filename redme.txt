@@ -1,0 +1,15 @@
+Test Chat App using only socket.io
+Need - Node js
+
+Installed Package 
+npm install --save express
+npm install --save socket.io
+
+Run Pj 
+In browser -> localhost:3001/hi
+In cmd ->  node server.js
+
+
+ Writed only 2 files
+ server.js
+ index.html (view/frontend/)
